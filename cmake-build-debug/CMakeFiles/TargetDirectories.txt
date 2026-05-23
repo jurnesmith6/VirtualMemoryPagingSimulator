@@ -1,0 +1,3 @@
+/Users/jurnesmith/CLionProjects/OperatingSystemsA3/cmake-build-debug/CMakeFiles/OperatingSystemsA3.dir
+/Users/jurnesmith/CLionProjects/OperatingSystemsA3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jurnesmith/CLionProjects/OperatingSystemsA3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

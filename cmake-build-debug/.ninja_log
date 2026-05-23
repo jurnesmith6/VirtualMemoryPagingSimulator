@@ -1,0 +1,11 @@
+# ninja log v6
+1116	1286	1762186800247889983	OperatingSystemsA3	3f83bbc91d83a046
+12	1031	1762186799143885118	CMakeFiles/OperatingSystemsA3.dir/PageTracker.cpp.o	7099d3df5b6e281c
+15	260	1761789200940101347	CMakeFiles/OperatingSystemsA3.dir/vaddr_tracereader.c.o	b585fbfdb39df273
+7	216	1762003668068761835	CMakeFiles/OperatingSystemsA3.dir/log_helpers.cpp.o	e0e8cc80051e5b05
+14	260	1761789200939863859	CMakeFiles/OperatingSystemsA3.dir/log_helpers.c.o	97c3815d6d452fc3
+4	173	1761789305102355781	CMakeFiles/OperatingSystemsA3.dir/vaddr_tracereader.cpp.o	b0767a6f2753e4ff
+11	1116	1762186799142461342	CMakeFiles/OperatingSystemsA3.dir/main.cpp.o	57b0d2691f92660a
+2	78	1779507623576603414	build.ninja	d329375f471974fe
+7	797	1762130151126622771	CMakeFiles/OperatingSystemsA3.dir/PageTable.cpp.o	6e3a0a1ae5531cdd
+7	210	1762125909425649437	CMakeFiles/OperatingSystemsA3.dir/PageNode.cpp.o	6ac717521da2c6fc
